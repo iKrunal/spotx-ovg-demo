@@ -1,0 +1,10 @@
+PODS:
+  - SpotX-SDK-AVPlayer (1.2)
+
+DEPENDENCIES:
+  - SpotX-SDK-AVPlayer
+
+SPEC CHECKSUMS:
+  SpotX-SDK-AVPlayer: 600697dc79a5e898c14e4b0f92c6bb1ef3a1fc79
+
+COCOAPODS: 0.39.0
